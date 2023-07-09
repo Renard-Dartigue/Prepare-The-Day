@@ -38,3 +38,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Screenshot
+( '-8' was added to line 17 is js file to test if program is functioning correctly.)
+![alttext](../Prepare-The-Day/Assets/IMAGES/_G__ProBootcamp_UCF_homework_Prepare-The-Day_index.html.png)
