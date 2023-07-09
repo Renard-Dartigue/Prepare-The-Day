@@ -8,7 +8,7 @@ The grayed out slots reprisent the hours that have passed. The red slot is the c
 To schedule an event, click on the green slots that match the time and write a brief description of the event. Then press the blue save icon on the right to save this event. 
 
 ## Usage
-
+https://renard-dartigue.github.io/Prepare-The-Day/
 
 ## Credits
 
